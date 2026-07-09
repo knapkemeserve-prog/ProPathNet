@@ -1,0 +1,27 @@
+# 忽略 Python 缓存文件 (非常重要)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 忽略模型权重文件
+#*.pth
+#*.pt
+#checkpoints/
+#best_models/
+
+#忽略bash文件
+*.sh
+
+# 忽略运行日志
+*.log
+nohup.out
+
+github_token
+
+# 忽略大体积的结果数据和图表 (根据你的需求决定是否保留)
+data/MILTON_features_imputed.csv
+流程图_model.drawio.png
+#*.csv
+# *.png
+
+

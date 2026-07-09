@@ -1,0 +1,112 @@
+disease_category,disease_name,sample_size,cindex_base_mean,cindex_traits_mean,cindex_mymodel_mean,cindex_traits_riskscore_mean,diff_mymodel_base_mean,diff_mymodel_traits_mean,diff_mymodel_base_significant,diff_mymodel_traits_significant
+Benign_neoplasm_or_Carcinoma_in_situ,Benign neoplasm and polyp of uterus,4727,0.5263,0.5963,0.6007,0.5967,0.0744,0.0043,No,No
+Benign_neoplasm_or_Carcinoma_in_situ,Leiomyoma of uterus,4683,0.7007,0.6712,0.7712,0.7335,0.0705,0.1,Yes,Yes
+Benign_neoplasm_or_Carcinoma_in_situ,"Benign neoplasm of colon, rectum, anus and anal canal",7809,0.6585,0.6628,0.6856,0.6835,0.0271,0.0228,Yes,Yes
+Cancers,Primary Malignancy Prostate,4001,0.7157,0.7005,0.8263,0.8229,0.1106,0.1258,Yes,Yes
+Cancers,Primary Malignancy Other Skin and subcutaneous tissue,8789,0.7008,0.7003,0.7213,0.724,0.0206,0.021,Yes,No
+Cancers,Primary Malignancy Lung and trachea,8960,0.7176,0.8352,0.8885,0.8945,0.1709,0.0533,Yes,Yes
+Cancers,Secondary Malignancy Lung,8972,0.6712,0.6877,0.7192,0.7232,0.048,0.0316,No,No
+Cancers,Secondary malignancy Liver and intrahepatic bile duct,8960,0.6481,0.6537,0.6601,0.6754,0.012,0.0064,No,No
+Cancers,Secondary Malignancy Lymph Nodes,8903,0.5799,0.5863,0.6493,0.6343,0.0694,0.0629,Yes,Yes
+Cancers,Primary Malignancy colorectal and anus,8919,0.6454,0.6215,0.6627,0.6552,0.0174,0.0412,No,No
+Cancers,Secondary Malignancy retroperitoneum and peritoneum,8985,0.6718,0.6556,0.6832,0.6875,0.0115,0.0276,No,No
+Cancers,Secondary Malignancy Bone,8972,0.6883,0.6808,0.7047,0.7114,0.0164,0.0239,No,No
+Cancers,Primary Malignancy Breast,8830,0.7377,0.7206,0.7441,0.7308,0.0064,0.0234,No,No
+Cancers,Secondary Malignancy Other organs,8940,0.6541,0.6629,0.6773,0.6873,0.0231,0.0144,No,No
+Cardiovascular,Right bundle branch block,8952,0.784,0.8217,0.7983,0.8372,0.0143,-0.0235,No,No
+Cardiovascular,Nonrheumatic mitral valve disorders,8932,0.6987,0.7167,0.6813,0.698,-0.0174,-0.0354,No,No
+Cardiovascular,Hypertension,7615,0.6771,0.7743,0.7678,0.7885,0.0907,-0.0065,Yes,No
+Cardiovascular,Coronary heart disease not otherwise specified,8754,0.7379,0.8019,0.8235,0.8256,0.0856,0.0215,Yes,Yes
+Cardiovascular,Heart failure,8801,0.7339,0.7952,0.8331,0.6252,0.0991,0.0379,Yes,Yes
+Cardiovascular,Stable angina,8702,0.6818,0.7459,0.7795,0.7805,0.0977,0.0336,Yes,Yes
+Cardiovascular,Ischaemic stroke,8919,0.6821,0.7206,0.7311,0.7451,0.049,0.0105,No,No
+Cardiovascular,Peripheral arterial disease,8940,0.7364,0.8348,0.8716,0.8761,0.1352,0.0367,Yes,No
+Cardiovascular,Venous thromboembolic disease,8913,0.6159,0.6868,0.7119,0.7331,0.096,0.0251,Yes,No
+Cardiovascular,Atrial fibrillation survival data,8635,0.7477,0.7971,0.8017,0.8113,0.054,0.0046,Yes,No
+Cardiovascular,Supraventricular tachycardia,8959,0.6654,0.6568,0.6297,0.6852,-0.0357,-0.0271,No,No
+Cardiovascular,Left bundle branch block,8954,0.6827,0.7368,0.7486,0.7601,0.0659,0.0118,Yes,No
+Cardiovascular,Transient ischaemic attack,8959,0.6713,0.6184,0.6856,0.6578,0.0143,0.0671,No,No
+Cardiovascular,Pulmonary embolism,8916,0.6366,0.7406,0.7237,0.749,0.0871,-0.0169,Yes,No
+Cardiovascular,Unstable Angina,8907,0.669,0.7116,0.7518,0.7445,0.0828,0.0401,Yes,No
+Cardiovascular,Nonrheumatic aortic valve disorders,8930,0.7771,0.8349,0.8068,0.8504,0.0297,-0.0281,No,No
+Cardiovascular,Primary pulmonary hypertension,9009,0.7284,0.8057,0.8318,0.8445,0.1034,0.0261,Yes,No
+Cardiovascular,Myocardial infarction,8964,0.7137,0.7383,0.7584,0.7646,0.0447,0.0201,No,No
+Cardiovascular,Raynaud syndrome,8971,0.659,0.7545,0.7405,0.7694,0.0815,-0.014,No,No
+Cardiovascular,Multiple valve dz,8917,0.694,0.7105,0.7158,0.7349,0.0218,0.0053,No,No
+Digestive,Diverticular disease of intestine,8439,0.6307,0.6528,0.6625,0.6579,0.0318,0.0097,Yes,No
+Digestive,Cholecystitis,8955,0.5923,0.6768,0.7448,0.7328,0.1525,0.068,Yes,No
+Digestive,Gastritis and duodenitis,8463,0.585,0.6301,0.6566,0.6503,0.0716,0.0265,Yes,Yes
+Digestive,Oesophagitis and oesophageal ulcer,8771,0.5702,0.6074,0.6213,0.623,0.0511,0.0139,Yes,No
+Digestive,Diaphragmatic hernia,8481,0.6059,0.623,0.6801,0.675,0.0743,0.0571,Yes,Yes
+Digestive,Gastro-oesophageal reflux disease,8467,0.572,0.6087,0.6483,0.6412,0.0763,0.0396,Yes,Yes
+Digestive,Anal fissure,8951,0.5941,0.5932,0.6461,0.6374,0.052,0.0529,No,No
+Digestive,Fatty Liver,8940,0.4591,0.7131,0.7738,0.7569,0.3147,0.0607,Yes,Yes
+Digestive,Barrett oesophagus,8971,0.6513,0.651,0.7078,0.7091,0.0565,0.0567,Yes,Yes
+Digestive,Cholelithiasis,8731,0.5784,0.6912,0.71,0.7103,0.1316,0.0188,Yes,No
+Digestive,Abdominal Hernia,8602,0.7096,0.7151,0.7219,0.7277,0.0123,0.0067,No,No
+Digestive,Irritable bowel syndrome,8879,0.6231,0.6692,0.6544,0.6849,0.0313,-0.0148,No,No
+Digestive,Peptic ulcer disease,8863,0.5957,0.6458,0.6876,0.6729,0.0918,0.0417,Yes,No
+Endocrine,Hypo or hyperthyroidism,8729,0.6616,0.6891,0.8019,0.7988,0.1403,0.1128,Yes,Yes
+Endocrine,Obesity,8704,0.5489,0.8636,0.8599,0.8692,0.311,-0.0036,Yes,No
+Endocrine,Diabetes Type II,8636,0.6617,0.8924,0.8918,0.9104,0.2301,-0.0006,Yes,No
+Endocrine,Diabetes NOS,8965,0.6531,0.8488,0.8202,0.8531,0.1671,-0.0286,Yes,No
+Endocrine,Hypothyroidism,8753,0.6892,0.7142,0.8207,0.8203,0.1315,0.1065,Yes,Yes
+Eye,Macular degeneration,8903,0.7839,0.7867,0.7552,0.789,-0.0287,-0.0315,No,No
+Eye,Retinal detachments and breaks,8954,0.6215,0.6027,0.6074,0.6284,-0.0141,0.0047,No,No
+Eye,Diabetic ophthalmic complications,8956,0.7235,0.9603,0.9438,0.9695,0.2203,-0.0165,Yes,No
+Eye,Glaucoma,8879,0.7289,0.7284,0.725,0.7335,-0.0039,-0.0033,No,No
+Eye,Cataract,8363,0.7387,0.7519,0.7401,0.7448,0.0014,-0.0118,No,Yes
+Genitourinary,Chronic Kidney Disease,8791,0.7211,0.866,0.8818,0.8878,0.1607,0.0158,Yes,Yes
+Genitourinary,Female genital prolapse,4705,0.5861,0.605,0.6141,0.619,0.028,0.0092,No,No
+Genitourinary,Postmenopausal bleeding,4691,0.4751,0.5888,0.5773,0.5708,0.1022,-0.0115,Yes,No
+Genitourinary,Acute Kidney Injury,8764,0.7185,0.8054,0.822,0.8296,0.1035,0.0166,Yes,No
+Genitourinary,Hyperplasia of prostate,3867,0.6792,0.6899,0.7304,0.7297,0.0512,0.0405,Yes,Yes
+Genitourinary,Urinary Incontinence,8895,0.6771,0.7234,0.7026,0.7285,0.0255,-0.0208,No,No
+Genitourinary,Menorrhagia and polymenorrhoea,4718,0.8765,0.8375,0.8833,0.8717,0.0068,0.0459,No,Yes
+Genitourinary,Urolithiasis,8885,0.5964,0.6812,0.6528,0.6798,0.0564,-0.0284,No,No
+Genitourinary,Obstructive and reflux uropathy,8948,0.6191,0.6695,0.6511,0.676,0.032,-0.0184,No,No
+Haematological_or_immunological,Other anaemias,8700,0.645,0.7346,0.7644,0.7678,0.1195,0.0298,Yes,Yes
+Haematological_or_immunological,Agranulocytosis,8959,0.5542,0.6738,0.7161,0.727,0.1619,0.0423,Yes,No
+Haematological_or_immunological,Secondary or other Thrombocytopaenia,8976,0.653,0.7328,0.766,0.771,0.113,0.0333,Yes,No
+Haematological_or_immunological,Iron deficiency anaemia,8795,0.5826,0.7236,0.7683,0.7729,0.1858,0.0447,Yes,Yes
+Infections,Infection of skin and subcutaneous tissues,8772,0.5801,0.6741,0.6889,0.6837,0.1088,0.0148,Yes,No
+Infections,Viral diseases,8912,0.511,0.5627,0.6086,0.5946,0.0977,0.0459,Yes,No
+Infections,Septicaemia,8890,0.6499,0.7354,0.771,0.7709,0.1211,0.0356,Yes,Yes
+Infections,Urinary Tract Infections,8705,0.6547,0.7129,0.7264,0.7294,0.0717,0.0135,Yes,No
+Infections,Infections of the digestive system,8797,0.6097,0.68,0.6948,0.706,0.0851,0.0148,Yes,No
+Infections,Lower Respiratory Tract Infections,8558,0.666,0.7473,0.7753,0.7788,0.1093,0.028,Yes,Yes
+Infections,Mycoses,8929,0.6637,0.716,0.7392,0.7404,0.0754,0.0231,Yes,No
+Infections,Ear and Upper Respiratory Tract Infections,8872,0.4787,0.5721,0.591,0.5924,0.1123,0.0189,Yes,No
+Infections,Bacterial Diseases,8645,0.6058,0.6744,0.7035,0.701,0.0977,0.0291,Yes,Yes
+Musculoskeletal,Gout,8914,0.777,0.8962,0.8851,0.9062,0.1081,-0.0111,Yes,No
+Musculoskeletal,Polymyalgia Rheumatica,8970,0.7754,0.7441,0.7212,0.7625,-0.0542,-0.0229,No,No
+Musculoskeletal,Osteoarthritis,8598,0.6631,0.6971,0.7317,0.7306,0.0686,0.0346,Yes,Yes
+Musculoskeletal,Fracture of hip,8963,0.7112,0.6892,0.7594,0.761,0.0481,0.0702,No,No
+Musculoskeletal,Enthesopathies & synovial disorders,8832,0.5151,0.5097,0.5655,0.5172,0.0503,0.0557,No,No
+Musculoskeletal,Carpal tunnel syndrome,8837,0.614,0.683,0.6583,0.6803,0.0443,-0.0248,No,No
+Musculoskeletal,Rheumatoid Arthritis,8924,0.6609,0.7289,0.7771,0.7865,0.1162,0.0482,Yes,No
+Musculoskeletal,Fracture of wrist,8916,0.671,0.6595,0.6974,0.7014,0.0264,0.038,No,No
+Musculoskeletal,Osteoporosis,8832,0.7481,0.7736,0.812,0.8164,0.0639,0.0384,Yes,Yes
+Musculoskeletal,Spinal stenosis,8916,0.5885,0.6786,0.7482,0.7432,0.1598,0.0696,Yes,Yes
+Musculoskeletal,Spondylosis,8811,0.6646,0.7096,0.7543,0.7536,0.0897,0.0447,Yes,Yes
+Musculoskeletal,Intervertebral disc disorders,8842,0.5456,0.5957,0.6641,0.6517,0.1184,0.0683,Yes,Yes
+Neurological,Motor neuron disease,9007,0.6715,0.6699,0.6229,0.6681,-0.0486,-0.047,No,No
+Neurological,"Postviral fatigue syndrome, neurasthenia and fibromyalgia",8978,0.698,0.7506,0.8348,0.8426,0.1368,0.0842,Yes,Yes
+Neurological,Migraine,8935,0.5744,0.6106,0.6314,0.6319,0.0569,0.0208,No,No
+Psychiatric,Dementia,8914,0.8109,0.8134,0.875,0.8785,0.0641,0.0616,Yes,Yes
+Psychiatric,"Delirium, not induced by alcohol and other psychoactive substances",8901,0.7575,0.7669,0.8127,0.8233,0.0552,0.0458,Yes,No
+Psychiatric,Anxiety disorders,8808,0.5827,0.6089,0.6799,0.6765,0.0972,0.071,Yes,Yes
+Psychiatric,Depression,8749,0.5769,0.6377,0.711,0.7163,0.1342,0.0733,Yes,Yes
+Psychiatric,Alcohol Problems,8898,0.6078,0.6435,0.7038,0.7023,0.096,0.0603,Yes,Yes
+Respiratory,Pulmonary collapse,8912,0.6128,0.6852,0.725,0.7245,0.1123,0.0399,Yes,No
+Respiratory,Respiratory failure,8943,0.6846,0.7698,0.7951,0.7992,0.1105,0.0253,Yes,No
+Respiratory,Asthma,8577,0.5552,0.6676,0.6785,0.6911,0.1233,0.0108,Yes,No
+Respiratory,COPD,8821,0.7031,0.8643,0.8869,0.908,0.1838,0.0226,Yes,Yes
+Respiratory,Pleural effusion,8842,0.6965,0.74,0.7684,0.7677,0.0719,0.0283,Yes,Yes
+Respiratory,Allergic and chronic rhinitis,8933,0.4879,0.5384,0.6147,0.5644,0.1268,0.0763,Yes,No
+Respiratory,Bronchiectasis,8956,0.7307,0.7507,0.7629,0.7949,0.0322,0.0122,No,No
+Respiratory,Sleep apnoea,8921,0.595,0.8158,0.8405,0.8275,0.2455,0.0246,Yes,Yes
+Skin,Psoriasis,8956,0.5393,0.5812,0.6702,0.6679,0.1309,0.0889,Yes,No
+Skin,Actinic keratosis,8959,0.6817,0.6499,0.6467,0.6627,-0.035,-0.0033,No,No
+Skin,Dermatitis,8902,0.5866,0.6211,0.6545,0.6614,0.0679,0.0334,Yes,No
+Ear,Hearing loss,8849,0.7162,0.6916,0.7095,0.7089,-0.0067,0.0178,No,No
