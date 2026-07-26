@@ -39,10 +39,10 @@ pip install -r requirements.txt
 ### 1. View Supported Diseases
 
 You can check all the currently supported diseases (such as Acute_kidney_injury, Atrial_fibrillation, COPD, Diabetes_Type_II, and Fatty_Liver) in the **train/supported_diseases_list.txt** file.
-To generate or update this list, simply run:
+To view the current list directly in your terminal, simply run:
 
 ```
-python list_diseases.py
+cat train/supported_diseases_list.txt
 ```
 
 ### 2. Model Inference (Prediction)

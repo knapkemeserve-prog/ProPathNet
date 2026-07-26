@@ -1,4 +1,4 @@
-name: xln_python311
+name: propathnet_env
 channels:
   - defaults
   - pytorch
